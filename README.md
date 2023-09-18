@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @boymeetsblockchain
 - 👀 I’m interested in ...fullstack/blockchain  development 
-- 🌱 I’m currently learning ... node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
