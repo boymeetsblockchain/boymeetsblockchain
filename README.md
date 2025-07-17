@@ -1,70 +1,51 @@
-<h1 align="center">Hey 👋 What's Up? I'm Oluwasegun</h1>
+<h2 align="left">Hi 👋! I'm Oluwasegun — a Fullstack Developer  building scalable apps with React Native, Next.js & NestJS, automating workflows with AI, and deploying in the cloud ☁️🤖</h2>
 
-<p align="center">A passionate Fullstack Web & Mobile Developer building innovative solutions with <strong>Next.js, NestJS, React Native, and AI</strong> tools 🚀</p>
+
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">💡 What I Do</h3>
-
-- 🔭 Building scalable fullstack apps with Next.js + NestJS
-- 📱 Developing production-grade mobile apps in React Native
-- ⚙️ Automating workflows with tools like n8n, Replit, and AI
-- 🧠 Exploring new tech (Rust, Go, AI agents, and more)
-- 🎯 Passionate about solving problems in HealthTech, Fintech & Blockchain
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<h3 align="center">🌍 Let's Connect</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oluwasegun-aje-b990a1232/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/boymeetsblock">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/boymeetsblockchain">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Dev.to" />
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=boymeetsblockchain&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=boymeetsblockchain&theme=dracula&column=3&margin-w=8&margin-h=8" height="150" />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boymeetsblockchain/boymeetsblockchain/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boymeetsblockchain/boymeetsblockchain/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/boymeetsblockchain/boymeetsblockchain/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
