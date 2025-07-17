@@ -1,9 +1,7 @@
-iyosayi0x/README.md
 Hello, I'm Oluwasegun hi
 Hey, I'm a Full Stack Developer & Cloud Engineer with over 5 years of experience building systems that scale, apps that live in the cloud, and yes fixing bugs I swear weren’t mine 😂 .
 
-
-
+https://x.com/i_am_hasashi
 💻 Full Stack Development
 JavaScript TypeScript Python Java
 
