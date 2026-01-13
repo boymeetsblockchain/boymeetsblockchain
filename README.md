@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! I'm Oluwasegun a Fullstack Developer from Nigeria building scalable apps with React Native, Next.js & NestJS, automating workflows with AI, and deploying in the cloud ☁️🤖</p>
+<p align="left">Hi 👋! I'm Oluwasegun a Fullstack Developer and aspiring game developer from Nigeria building scalable apps with React Native, Next.js & NestJS, automating workflows with AI, and deploying in the cloud ☁️🤖</p>
 
 ###
 
