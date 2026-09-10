@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! I'm Oluwasegun — a Software Engineer helping healthtech & fintech teams ship products that actually work. I build with React Native, Next.js & NestJS, automate workflows with AI, and deploy in the cloud ☁️🤖. I'm also a physiotherapist by training, which is why I build <a href="https://rehabwise.online" target="_blank">RehabWise</a>, a stroke telerehabilitation platform, end-to-end.</p>
+<p align="left">Hi 👋! I'm Oluwasegun  a Software Engineer helping healthtech & fintech teams ship products that actually work. I build with React Native, Next.js & NestJS, automate workflows with AI, and deploy in the cloud ☁️🤖. I'm also a physiotherapist by training, which is why I build <a href="https://rehabwise.online" target="_blank">RehabWise</a>, a stroke telerehabilitation platform, end-to-end.</p>
 
 ###
 
